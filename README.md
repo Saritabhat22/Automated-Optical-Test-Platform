@@ -22,3 +22,9 @@ Improved test throughput and consistency compared to manual measurement approach
 **Notes on This Repository**
 
 This repository showcases the design and outcome of the test system, described independently in my own words. The original internal Work Instruction document used at the company is a controlled/proprietary document and is not included here.
+## Contact
+https://www.linkedin.com/in/sarita-bhat-b2a85b14
+
+##Github
+https://www.github.com/Saritabhat22
+
